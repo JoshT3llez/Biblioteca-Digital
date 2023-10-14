@@ -1,0 +1,28 @@
+.thb{
+    color: purple;
+}
+
+.thn{
+    color: red;
+}
+
+
+        /* Estilos de las alertas */
+        .alert {
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px;
+            font-weight: bold;
+            display: none; /* Ocultamos inicialmente las alertas */
+        }
+        .alert.success {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .alert.error {
+            background-color: #f44336;
+            color: white;
+        }
+
+
+
